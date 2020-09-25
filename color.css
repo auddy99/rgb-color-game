@@ -1,0 +1,62 @@
+div{
+	text-transform: uppercase;
+}
+
+#bg1{
+	background: #668BC7;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-family: "PT Serif";
+	line-height: 1.3;
+	transition: all 0.3s;
+}
+
+.bg2{
+	background: white;
+}
+
+.container{
+	width: 40rem;
+}
+
+.buttonPressed{
+	background: #5C8DF9
+}
+
+.rgb{
+	font-size: 2em;
+}
+
+.btn{
+	background: white;
+	color: #668BC7;
+	border-radius: 0px;
+	border: 0px solid black;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.btn:hover{
+	background: #668BC7;
+	color: white;
+	margin: 0px;
+	transition: all 0.3s;
+}
+
+.selected{
+	background: #668BC7;
+	color: white;
+	margin: 0px;
+	transition: all 0.3s;
+}
+
+.square{
+	padding-bottom: 10rem;
+	float: left;
+	background: white;
+	width: 30%;
+	margin: 1.66%;
+	border-radius: 2rem; 
+	transition: all 0.3s;
+}
